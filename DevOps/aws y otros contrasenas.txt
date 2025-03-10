@@ -1,0 +1,15 @@
+AWS ACCOUNT 188325926218 
+Account Alias
+main-aws-acct
+
+
+aws terraform-user
+https://main-aws-acct.signin.aws.amazon.com/console
+terraform-user
+3Mkmk0501!
+
+llave
+AKIASXWIZSVFJZHMNBXM
+
+lo otro
+fqq8SEgBJekGgcXrvOpKji9rSt8BuzIqgLoTgb5f
